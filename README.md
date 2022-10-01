@@ -1,8 +1,8 @@
 - 👋 Hi, I’m [@taymuur](linkedin.com/in/taimur-shahzad-gill)
 - 👀 I’m interested in machine learning and data science
-- 🌱 I’m currently learning SQL from datacamp
+- 🌱 I’m currently learning SQL from [DataCamp](www.datacamp.com)
 - 💞️ I’m looking to collaborate on real-life machine-learning projects
-- 📫 You can reach me at my [taimurshahzad69@gmail.com](mailto:taimurshahzad69@gmail.com)
+- 📫 You can reach me at [taimurshahzad69@gmail.com](mailto:taimurshahzad69@gmail.com)
 
 
 
