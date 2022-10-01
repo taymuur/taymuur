@@ -47,14 +47,10 @@ A programming geek and a robotics aficionado with specialization in Artificial I
 ![CSS](https://img.shields.io/badge/-CSS3-000?logo=CSS3)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### OS
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=debian&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-00a2ed?style=for-the-badge&logo=Windows&logoColor=white)
-
 ### Github Stats
 
 <p align="center">
-<a href="https://github.com/emshaheer1">
+<a href="https://github.com/taymuur">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taymuur&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=taymuur&layout=compact&langs_count=8&theme=react"/>
 </a>
