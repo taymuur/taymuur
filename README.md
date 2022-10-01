@@ -6,9 +6,8 @@
 
 
 
-[![Taimur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=taymuur&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/taymuur/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taymuur&theme=radical)](https://github.com/taymuur/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taymuur&theme=react)](https://github.com/taymuur/github-readme-stats)
 
 <h2 align="center"> Hi, I'm Taimur Shahzad Gill 👋 </h2>
 <h3 align="center"> Aspiring Data Analyst & Python Developer</h3>
@@ -57,7 +56,7 @@ A programming geek and a robotics aficionado with specialization in Artificial I
 
 <p align='center'>
  <a>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=taymuur&layout=compact&langs_count=4&theme=react"/>
+  <img height="180em" src="https://github-readme-stats-four-theta.vercel.app/api/top-langs/?username=taymuur&layout=compact&langs_count=4&theme=react"/>
 </a>
 </p>
 
