@@ -1,14 +1,3 @@
-- 👋 Hi, I’m [@taymuur](linkedin.com/in/taimur-shahzad-gill)
-- 👀 I’m interested in machine learning and data science
-- 🌱 I’m currently learning SQL from [DataCamp](www.datacamp.com)
-- 💞️ I’m looking to collaborate on real-life machine-learning projects
-- 📫 You can reach me at [taimurshahzad69@gmail.com](mailto:taimurshahzad69@gmail.com)
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taymuur&theme=react)](https://github.com/taymuur/github-readme-stats)
-
 <h2 align="center"> Hi, I'm Taimur Shahzad Gill 👋 </h2>
 <h3 align="center"> Aspiring Data Analyst & Python Developer</h3>
 
@@ -27,10 +16,14 @@
  <a href="https://www.linkedin.com/in/taimur-shahzad-gill">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
+<br>
 </div>
 
-### About Me:
+<div align='center'>
+ <img src="https://komarev.com/ghpvc/?username=taymuur&color=brightgreen" alt="Profile views"/> 
+ </div>
+
+### About Me
   
 A programming geek and a robotics aficionado with specialization in Artificial Intelligence and Machine Learning from NUST, Karachi. A highly detail-oriented individual with strong critical thinking and problem-solving skills, and a key team player.
 
@@ -41,6 +34,7 @@ A programming geek and a robotics aficionado with specialization in Artificial I
 - 📫 You can reach me at my [LinkedIn](https://www.linkedin.com/in/taimur-shahzad-gill) or [email](mailto:taimuur.shahzad@gmail.com) address.
 
 ### Programming Languages
+
 ![JavaScript](https://img.shields.io/badge/-Javascript-000?logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML-000?logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS3-000?logo=CSS3)
@@ -64,4 +58,4 @@ A programming geek and a robotics aficionado with specialization in Artificial I
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=taymuur&theme=react&hide_border=true" alt="Taimur's commit streak" width="49%" /> 
 </p>
 
-
+![Contribution](https://activity-graph.herokuapp.com/graph?username=taymuur&theme=react-dark&hide_border=true&area=true)
