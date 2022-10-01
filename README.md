@@ -53,6 +53,9 @@ A programming geek and a robotics aficionado with specialization in Artificial I
 <a href="https://github.com/taymuur">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taymuur&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> 
  </a>
+</p>
+
+<p align='center'>
  <a>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=taymuur&layout=compact&langs_count=8&theme=react"/>
 </a>
