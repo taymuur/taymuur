@@ -16,12 +16,13 @@
  <a href="https://www.linkedin.com/in/taimur-shahzad-gill">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<br>
 </div>
 
 <div align='center'>
- <img src="https://komarev.com/ghpvc/?username=taymuur&color=brightgreen" alt="Profile views"/> 
- </div>
+ <br>
+ <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/taymuur?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
+ <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=taymuur&repo=taymuur&countColorcountColor&countColor=%237B1E7B"/>
+</div>
 
 ### About Me
   
