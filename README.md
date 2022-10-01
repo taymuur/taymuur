@@ -38,7 +38,7 @@ A programming geek and a robotics aficionado with specialization in Artificial I
 - 🌱 I’m currently Time Series Analysis from [DataCamp](www.datacamp.com).
 - 👯 I’m looking to collaborate on projects related to Machine Learning and Data Science.
 - 💬 Ask me about anything.
-- 📫 You can reach me at my [LinkedIn](https://www.linkedin.com/in/taimur-shahzad-gill) or [email address](mailto:taimuur.shahzad@gmail.com).
+- 📫 You can reach me at my [LinkedIn](https://www.linkedin.com/in/taimur-shahzad-gill) or [email](mailto:taimuur.shahzad@gmail.com) address.
 
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/-Javascript-000?logo=javascript)
@@ -56,7 +56,7 @@ A programming geek and a robotics aficionado with specialization in Artificial I
 
 <p align='center'>
  <a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taymuur&langs_count=4&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taymuur&show_icons=true&locale=en&layout=compactlangs_count=4&theme=react"/>
 </a>
 </p>
 
