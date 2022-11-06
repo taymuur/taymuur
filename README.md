@@ -21,7 +21,6 @@
 <div align='center'>
  <br>
  <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/taymuur?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
- <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=taymuur&repo=taymuur&countColorcountColor&countColor=%237B1E7B"/>
 </div>
 
 ### About Me
