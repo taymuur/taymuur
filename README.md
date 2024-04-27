@@ -28,7 +28,7 @@
 A programming geek and a robotics aficionado with specialization in Artificial Intelligence and Machine Learning from NUST, Karachi. A highly detail-oriented individual with strong critical thinking and problem-solving skills, and a key team player.
 
 - 🔭 I’m currently working on Epileptic Seizure Forecasting Using Machine Learning.
-- 🌱 I’m currently Time Series Analysis from [DataCamp](www.datacamp.com).
+- 🌱 I’m currently learning Time Series Analysis from [DataCamp](www.datacamp.com).
 - 👯 I’m looking to collaborate on projects related to Machine Learning and Data Science.
 - 💬 Ask me about Python or Data Science.
 - 📫 You can reach me at my [LinkedIn](https://www.linkedin.com/in/taimur-shahzad-gill) or [email](mailto:taimuur.shahzad@gmail.com).
